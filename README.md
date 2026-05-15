@@ -109,3 +109,13 @@ A purpose-built public API for testing practice. Supports full CRUD on hotel boo
 **Data-driven loops** — a single test definition runs against multiple guest profiles using a `for...of` loop over a typed array.
 
 **Schema contracts** — AJV validates response shapes so structural regressions are caught immediately.
+
+---
+
+## Author
+
+**Darrius Jones**
+QA Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darrius%20Jones-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrius-jones-28226b350/)
+[![GitHub](https://img.shields.io/badge/GitHub-Djones--qa-181717?style=flat&logo=github&logoColor=white)](https://github.com/Djones-qa)
