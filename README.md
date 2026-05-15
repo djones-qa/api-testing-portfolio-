@@ -1,5 +1,7 @@
 # API Testing Portfolio
 
+![API Tests](https://github.com/Djones-qa/api-testing-portfolio-/actions/workflows/ci.yml/badge.svg)
+
 A REST API test suite built with **Playwright's API testing capabilities** and **TypeScript**, targeting the [Restful Booker](https://restful-booker.herokuapp.com) public API.
 
 This repo demonstrates pure API testing skills independent of any UI layer — a companion to the [e2e-testing-portfolio](https://github.com/Djones-qa/e2e-testing-portfolio).
